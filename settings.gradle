@@ -1,0 +1,4 @@
+rootProject.name = 'Employee-Connect'
+include 'Frontend'
+include 'Application'
+
